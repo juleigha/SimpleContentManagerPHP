@@ -6,3 +6,4 @@ Instead of a database it uses a series of linked json files. Controlling cateori
 Manager View will allow you modify the jsons.
 
 # This repository has no license. 
+Use for free - contact information at: Mattur.org/JuliasPortfolio
