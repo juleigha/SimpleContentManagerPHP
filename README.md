@@ -1,8 +1,9 @@
 # Simple Content Manager in PHP
-
-Instead of a database it uses a series of linked json files. Controlling cateories, sub-categories, items and sub-items in a dynamic fashion. 
+Faster than a database for less secure data, easily migratable and convertable.
+Manage tables / categories / lists in html 
 
 # Manager View 
 Manager View will allow you modify the jsons.
 
-# This repository has no license. 
+<b>This repository has no license. 
+Mattur.org/JuliasPortfolio</b>
