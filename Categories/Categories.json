@@ -1,0 +1,83 @@
+[
+  {
+    "category": "ExampleCategory1",
+    "options":[
+      {
+        "name"     : "Example Subcategory 1.1",
+        "text"     : "Categories/ExampleCategory1_1/CategoryText.txt",
+        "href"     : "ExampleCategory1_1",
+        "2Versions"   : "TRUE",
+        "json"     : "Categories/ExampleCategory1_1/exampleWith2Versions.json",
+        "imgPath"  : "Images/",
+        "pageTitle": "Professional Development PowerPoint Content"
+      },
+      {
+        "name" : "Example Subcategory 1.2",
+        "text"   : "Categories/ExampleCategory1_2/CategoryText.txt",
+        "href" : "ExampleCategory1_2",
+        "2Versions" : "FALSE",
+        "json"   : "Categories/ExampleCategory1_2/Category1.2.json",
+        "imgPath": "Images/",
+        "pageTitle": "PowerPoint Value Packs"
+      },
+      {
+        "name" : "Example Subcategory 1.3",
+        "text"   : "Categories/ExampleCategory1_3/CategoryText.txt",
+        "href" : "ExampleCategory1_3",
+        "2Versions" : "SUBCATS",
+        "cats" : [
+          "Category1_3_1",
+          "Category1_3_2"
+        ],
+        "json"   : "Categories/ExampleCategory1_3/cats.json",
+        "imgPath": "Images/",
+        "pageTitle":"PowerPoint Templates"
+      },
+      {
+        "name" : "Example Subcategory 1.4",
+        "text"   : "Categories/ExampleCategory1_4/ExampleCategory.txt",
+        "href" : "ExampleCategory1_4",
+        "2Versions" : "FALSE",
+        "json"   : "Categories/ExampleCategory1_4/Category1.4.json",
+        "pageTitle": "PowerPoint Openers"
+      }
+    ]
+  },
+  {
+
+    "category": "ExampleCategory2",
+    "options":[
+    {
+      "name": "Example Subcategory 2.1",
+      "text"   : "Categories/ExampleCategory2_1/CategoryText.txt",
+      "href" : "ExampleCategory2_1",
+      "2Versions": "FALSE",
+      "json": "Categories/ExampleCategory2_1/Category.json",
+      "imgPath": "Images/",
+      "pageTitle": "Workbook Prints"
+    },
+    {
+      "name": "Example Subcategory 2.2",
+      "text"   : "Categories/ExampleCategory2_2/CategoryText.txt",
+      "href" : "ExampleCategory2_2",
+      "2Versions": "FALSE",
+      "json": "Categories/ExampleCategory2_2/Category.json",
+      "imgPath": "Images/",
+      "pageTitle": "E-Books PDFs"
+    },
+    {
+      "name": "Example Subcategory 2.3",
+      "text"   : "Categories/ExampleCategory2_3/CategoryText.txt",
+      "href" : "ExampleCategory2_3",
+      "2Versions": "SUBCATS",
+      "cats":[
+        "Category2_3_1",
+        "Category2_3_2"
+      ],
+      "json": "Categories/ExampleCategory2_3/cats.json",
+      "imgPath": "Images/",
+      "pageTitle": "Articles for Reproduction"
+    }
+   ]
+  }
+]

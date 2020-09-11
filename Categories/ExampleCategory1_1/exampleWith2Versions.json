@@ -1,0 +1,117 @@
+[
+    {
+        "name": "Item 1 Name",
+        "V1": {
+            "image": "circle",
+            "text": "Item1Name",
+            "isbn": "",
+            "price": "",
+            "other": {
+                "Author": "x",
+                "Language": "x",
+                "Pictures": "x",
+                "Diagrams": ""
+            },
+            "shareIt": "x"
+        },
+        "V2": {
+            "image": "",
+            "text": "",
+            "isbn": "",
+            "price": "",
+            "other": {
+                "Author": "",
+                "Language": "",
+                "Pictures": "",
+                "Diagrams": ""
+            },
+            "shareIt": ""
+        }
+    },
+    {
+        "name": "Item 2 Name",
+        "V1": {
+            "image": "",
+            "text": "",
+            "isbn": "",
+            "price": "",
+            "other": {
+                "Author": "",
+                "Language": "",
+                "Pictures": "",
+                "Diagrams": ""
+            },
+            "shareIt": ""
+        },
+        "V2": {
+            "image": "",
+            "text": "",
+            "isbn": "",
+            "price": "",
+            "other": {
+                "Author": "",
+                "Language": "",
+                "Pictures": "",
+                "Diagrams": ""
+            },
+            "shareIt": ""
+        }
+    },
+    {
+        "name": "Item 3 name ",
+        "V1": {
+            "image": "",
+            "text": "",
+            "isbn": "",
+            "price": "",
+            "other": {
+                "Author": "",
+                "Language": "",
+                "Pictures": "",
+                "Diagrams": ""
+            },
+            "shareIt": ""
+        },
+        "V2": {
+            "image": "",
+            "text": "",
+            "isbn": "",
+            "price": "",
+            "other": {
+                "Author": "",
+                "Language": "",
+                "Pictures": "",
+                "Diagrams": ""
+            }
+        }
+    },
+    {
+        "name": "Item 4 name",
+        "V1": {
+            "image": "",
+            "text": "",
+            "isbn": "",
+            "price": "",
+            "other": {
+                "Author": "",
+                "Language": "",
+                "Pictures": "",
+                "Diagrams": ""
+            },
+            "shareIt": ""
+        },
+        "V2": {
+            "image": "",
+            "text": "",
+            "isbn": "",
+            "price": "",
+            "other": {
+                "Author": "",
+                "Language": "",
+                "Pictures": "",
+                "Diagrams": ""
+            },
+            "shareIt": ""
+        }
+    }
+]

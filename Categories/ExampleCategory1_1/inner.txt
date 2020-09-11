@@ -1,0 +1,5 @@
+<?php
+var_dump ($url->product);
+echo "Name: {$url->product->itemName}";
+echo "Name: {$url->product->itemName}";
+?>

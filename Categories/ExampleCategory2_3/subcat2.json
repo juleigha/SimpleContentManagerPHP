@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Item 1",
+        "image": "",
+        "text": "",
+        "price": "",
+        "shareIt": "",
+        "isbn": null,
+        "other": {
+            "other": ""
+        },
+        "V1": {
+            "shareIt": ""
+        }
+    },
+    {
+        "name": "Item 2",
+        "image": "",
+        "text": "",
+        "price": "",
+        "shareIt": "",
+        "isbn": null,
+        "other": {
+            "other": null
+        }
+    },
+    {
+        "name": "Item 3",
+        "image": "",
+        "text": "",
+        "price": "",
+        "shareIt": "",
+        "isbn": null,
+        "other": {
+            "other": null
+        }
+    },
+    {
+        "name": "Item 4",
+        "image": "",
+        "text": "",
+        "price": "",
+        "shareIt": "",
+        "isbn": null,
+        "other": {
+            "other": null
+        }
+    },
+    {
+        "name": "Item 5",
+        "image": "",
+        "text": "",
+        "price": "",
+        "shareIt": "",
+        "isbn": null,
+        "other": {
+            "other": null
+        }
+    },
+    {
+        "name": "Item 6",
+        "image": "",
+        "text": "",
+        "price": "",
+        "shareIt": "",
+        "isbn": null,
+        "other": {
+            "other": null
+        }
+    },
+    {
+        "name": "Item 7",
+        "image": "",
+        "text": "",
+        "price": "",
+        "shareIt": "",
+        "isbn": null,
+        "other": {
+            "other": null
+        }
+    }
+]

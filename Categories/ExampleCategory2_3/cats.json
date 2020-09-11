@@ -1,0 +1,25 @@
+[
+    {
+        "category": "Subcategories for Category 2.3",
+        "options": [
+            {
+                "name": "Example Sub Category 2.3.1",
+                "text": "Categories\/ExampleCategory2_3\/ExampleSubCategory2.3.1_CategoryText.txt",
+                "href": "Category2_3_1",
+                "hasWOW": "FALSE",
+                "json": "Categories\/ExampleCategory2_3\/subcat1.json",
+                "imgPath": "Images\/ExampleCategory2_3\/",
+                "pageTitle": "SubCat Short Name"
+            },
+            {
+                "name": "Example Sub Category 2.3.2",
+                "text": "Categories\/ExampleCategory2_3\/ExampleSubCategory2.3.2_CategoryText.txt",
+                "href": "Category2_3_2",
+                "hasWOW": "FALSE",
+                "json": "Categories\/ExampleCategory2_3\/subcat2.json",
+                "imgPath": "Images\/ExampleCategory2_3\/",
+                "pageTitle": "SubCat Short Name"
+            }
+        ]
+    }
+]
